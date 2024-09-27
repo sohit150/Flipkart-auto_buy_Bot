@@ -17,16 +17,16 @@ Create a config.py file in the local directory that looks similar to this for ea
 
 ```
 keys = {
-        "product_url": "Flipkart Product Url Only",
-        "email": "youremail@domain",
-        "password": "Your_Password",       
+        "product_url": "",
+        "email": "sohitawasthi.science@gmail.com",
+        "password": "So@280906",       
 }
 ```
 
 #### STEP THREE
 You may have to download the correct chromedriver for you operating system (Linux/OSX/Windows), put the chromedriver.exe in the Flipkart-auto_buy_Bot directory with the script.
 
-chromdriver: http://chromedriver.chromium.org/downloads
+chromdriver:https://developer.chrome.com/docs/chromedriver/downloads#chromedriver_1140573590 
 
 #### STEP FOUR
 ```
